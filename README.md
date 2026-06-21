@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 
 ## About Me<br><br>Hi, I'm Manish — a developer from India currently building real-world projects and growing as a Full Stack Developer.<br><br>I'm working on modern web development, project architecture, and product-focused applications while improving my software engineering skills step by step.<br>My goal is to become a strong Full Stack Developer, build meaningful products, and prepare for top tech companies like Microsoft and Google.<br><br>## Current Learning<br><br>- Python<br>- JavaScript<br>- React<br>- APIs<br>- DSA<br>- Full Stack Development<br>- Project Architecture<br>- GitHub Workflow<br>- Deployment<br><br>## Working With<br><br>- HTML<br>- CSS<br>- JavaScript<br>- Web app structure<br>- UI building<br>- Product workflows<br><br>## Exploring<br><br>- Java<br>- Rust<br>- Backend concepts<br>- Databases<br>- Software engineering fundamentals
 
 
